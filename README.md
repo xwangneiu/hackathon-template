@@ -11,7 +11,7 @@ Please list your instructors and mentors below!
 
 | Instructor | Affiliation | Links |
 | :------- | ------- |:------- |
-| Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
+| Xiwei Wang | Northeastern Illinois University | [Github](https://github.com/username) |
 
 ## Schedule
 
